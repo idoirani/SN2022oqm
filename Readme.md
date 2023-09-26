@@ -10,3 +10,7 @@ params.py: parameter file
 fit_bb_extinction.py: executable script for blackbody fits
 blackbody_figures.ipynb: notebook plotting figures 8, 11, 12
 photometry_figures.ipynb: notebook plotting figures 3, 9,10
+
+
+<a href="https://doi.org/10.5281/zenodo.8364121"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8364121.svg" alt="DOI"></a>
+
